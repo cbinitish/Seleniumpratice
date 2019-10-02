@@ -1,0 +1,4 @@
+# Project exclude paths
+/Generic/target/
+/Homedepot/target/
+/target/
